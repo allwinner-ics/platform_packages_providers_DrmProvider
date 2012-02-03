@@ -16,9 +16,9 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="5439897702697364618">"Lưu trữ Nội dung được Bảo vệ bởi DRM"</string>
-    <string name="permlab_accessDrm" msgid="1806974558208719656">"Truy cập nội dung DRM."</string>
-    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Cho phép ứng dụng truy cập nội dung được bảo vệ bởi DRM."</string>
-    <string name="permlab_installDrm" msgid="4716871004736576753">"Cài đặt nội dung DRM."</string>
-    <string name="permdesc_installDrm" msgid="8352431922295326348">"Cho phép ứng dụng cài đặt nội dung được bảo vệ bởi DRM."</string>
+    <string name="app_label" msgid="5439897702697364618">"DRM-iga kaitstud sisu mäluruum"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Juurdepääs DRM-sisule."</string>
+    <string name="permdesc_accessDrm" msgid="3376257809694293454">"Võimaldab rakendusel pääseda juurde DRM-iga kaitstud sisule."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-sisu installimine."</string>
+    <string name="permdesc_installDrm" msgid="8352431922295326348">"Võimaldab rakendusel DRM-kaitstud sisu installida."</string>
 </resources>
